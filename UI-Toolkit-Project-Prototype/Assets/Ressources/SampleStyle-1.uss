@@ -5,4 +5,13 @@
     border-right-width: 10px;
     border-bottom-width: 10px;
     border-left-width: 10px;
+    align-self: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.basic-text {
+    font-size: 90px;
+    color: rgb(255, 255, 255);
+    -unity-font: initial;
 }
